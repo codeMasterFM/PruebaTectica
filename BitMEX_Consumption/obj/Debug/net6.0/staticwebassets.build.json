@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VCerUB/AAvPHV2T1eTSJJzHHpVmay00aRwkAoC2X83Q=",
+  "Source": "BitMEX_Consumption",
+  "BasePath": "_content/BitMEX_Consumption",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

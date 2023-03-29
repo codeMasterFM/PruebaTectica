@@ -1,0 +1,15 @@
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\bin\Debug\net6.0\Services.dll
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\obj\Debug\net6.0\Services.dll
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\bin\Debug\net6.0\Db.dll
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\bin\Debug\net6.0\Db.pdb
+C:\Users\Franklyn\source\repos\BitMEX_Consumption\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
